@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<EnvironmentVariables clsid="{BF141A63-327B-438a-B9BF-2C188F13B7AD}"><EnvironmentVariable clsid="{78570023-8373-4a19-BA80-2F150738EA19}" name="OneDrive" status="OneDrive = %userprofile%\OneDrive - MTF Thörishaus AG" image="2" changed="2016-11-23 12:26:00" uid="{0375C553-E725-460F-800E-EAD06D360AB9}" bypassErrors="1"><Properties action="U" name="OneDrive" value="%userprofile%\OneDrive - MTF Thörishaus AG" user="1" partial="0"/><Filters><FilterFile bool="AND" not="0" path="%userprofile%\OneDrive - MTF Thörishaus AG" type="EXISTS" folder="1"/></Filters></EnvironmentVariable>
-</EnvironmentVariables>
